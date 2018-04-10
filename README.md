@@ -1,4 +1,4 @@
 # lineDrawingRobot
-Projekt za info
+Avto, ki ga poganja Raspberry Pi in se pelje po imaginarni črti narisani na računalniku.
 
-GimVič
+GimVič 2018, informatika
